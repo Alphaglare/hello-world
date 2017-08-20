@@ -1,2 +1,5 @@
 # hello-world
-starting github
+
+Hi everyone
+
+Alphaglare here, I like to code and work out algos for problems.
